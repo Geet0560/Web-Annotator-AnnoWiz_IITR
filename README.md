@@ -99,6 +99,6 @@ Contributions are welcome!
 
 ## Developed By
 
-**Geet Gopal Asati | 21112049**  
+**Geet Gopal Asati**  
 *Indian Institute of Technology, Roorkee*
 
